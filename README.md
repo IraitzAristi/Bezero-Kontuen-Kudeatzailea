@@ -6,6 +6,7 @@ C#-en garatutako programa, AllSecurity enpresako bezeroen kontuak eta pasahitzak
 - Pasahitzen Kudeaketa
 - Bilaketa Azkarra
 - Kontu Motak (Gmail, Facebook, Instagram, Amazon...)
+- Kontuak inportatu
 - Kontsolako interfazea
 
 ## Teknologiak
